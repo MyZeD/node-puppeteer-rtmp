@@ -1,0 +1,15 @@
+{
+  "name": "yt-paint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stream.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Hirsch",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^3.0.4"
+  }
+}
+
