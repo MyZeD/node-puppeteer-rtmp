@@ -35,7 +35,7 @@ puppeteer.launch({
 - ffmpeg (default: 'ffmpeg')
 - fps (default: '30')
 - resolution (default: '1280x720')
-- preset (default: 'preset')
+- preset (default: 'medium')
 - rate (default: '2500k')
 - threads (default: '2')
 - output (default: 'rtmp://a.rtmp.youtube.com/live2/')
